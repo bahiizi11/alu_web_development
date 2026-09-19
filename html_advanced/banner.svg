@@ -1,0 +1,6 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" fill="#12172b"/>
+  <text x="60" y="95" font-family="Georgia, serif" font-size="52" fill="#f4f6ff">html_advanced</text>
+  <text x="60" y="140" font-family="-apple-system, sans-serif" font-size="22" fill="#9aa3c7">Semantic HTML, built from a Figma design</text>
+  <text x="60" y="180" font-family="Georgia, serif" font-size="30" fill="#5fd4c0">&lt;header&gt; &lt;main&gt; &lt;section&gt; &lt;article&gt;</text>
+</svg>
